@@ -1,8 +1,7 @@
 .git
-.gitignore
 .github
 target/
+docs/
 *.md
 .env
 *.p12
-docs/
